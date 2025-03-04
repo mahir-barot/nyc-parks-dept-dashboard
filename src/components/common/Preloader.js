@@ -61,7 +61,7 @@ const Preloader = ({ isLoading }) => {
           opacity: 0.9,
         }}
       >
-        Developed by UCI.
+        Developed by Mahir Barot from UCI-India.
       </Typography>
     </Box>
   );
